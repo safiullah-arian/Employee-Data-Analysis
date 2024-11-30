@@ -76,7 +76,7 @@ The dataset (`DIKW_HW_Activity.csv`) contains 9 columns and several rows, with t
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/safiullah-arian/employee-data-analysis.git
+   git clone https://github.com/safiullah-arian/Employee-Data-Analysis.git
    cd employee-data-analysis
    ```
 
